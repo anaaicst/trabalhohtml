@@ -1,0 +1,111 @@
+body {
+    background-color: rgb(220, 207, 184);
+    margin: 0px;
+    padding: 20px;
+}
+
+header {
+    background-color: rgb(72, 102, 61);
+    text-align: center;
+    height: 100px;
+    border-radius: 20px;
+    color: aliceblue;
+}
+
+nav a {
+    color: antiquewhite;
+    margin: 30px;
+    text-decoration: none;
+    padding: 5px;
+    background-color: rgb(109, 132, 117);
+    border-radius: 50px;
+
+}
+
+h1 {
+    color: white;
+    background-color: rgb(72, 102, 61);
+    text-align: center;
+    height: 40px;
+    border-radius: 20px;
+}
+
+main img {
+    display: block;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.apresentacao{
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+
+.tec{
+    display: flex;
+    gap: 2px;
+}
+
+.tec img{
+    height: 70px;
+}
+.ferramenta{
+    display: flex;
+    gap: 8px;
+}
+
+.ferramenta img{
+    height: 150px ;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    padding: 20px;
+}
+
+.link{
+    color: black;
+    font-size: 17px;
+}
+
+a{
+    color: rgb(72, 102, 61);
+}
+
+.rodape {
+    color: aliceblue;
+    background-color: rgb(72, 102, 61);
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.sobre{
+    color: rgb(72, 102, 61);
+    text-align: center;
+    font-size: 18px;
+}
+
+.imgsobre{
+    display: flex;
+    gap: 8px;
+}
+
+.imgsobre img{
+    height: 180px;
+}
+
+.contatos{
+    color: black;
+    font-size: 18px;
+}
+
+.imgcon img{
+    display: block;
+    height: 230px;
+}
